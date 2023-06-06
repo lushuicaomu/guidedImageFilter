@@ -1,4 +1,4 @@
-# Guided Image Filter Formula
+###Guided Image Filter Formula
 
 代码可以参考来http://kaiminghe.com/   
 
