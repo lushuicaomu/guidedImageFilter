@@ -1,6 +1,7 @@
-Guided Image Filter Formula
+Discription
+Record some formula derivation
+Reference
+[1] http://kaiminghe.com/
+[2] Guided Image Filtering, Kaiming He, Jian Sun, and Xiaoou Tang.
 
-代码可以参考来http://kaiminghe.com/   
-
-该仓库中包含文章中部分公式的详细推导，可供交流和参考
 
